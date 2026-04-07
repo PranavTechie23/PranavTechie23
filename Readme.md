@@ -93,12 +93,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie21&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie23&theme=tokyonight&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie21&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie23&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie23&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -111,16 +111,16 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=3D%20Contribution%20Graph&fontSize=25&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/PranavTechie21?chart=3dbar&scale=2&animation=wave&theme=native" width="85%" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/PranavTechie23?chart=3dbar&scale=2&animation=wave&theme=native" width="85%" />
 </p>
 
 ---
 
 ## 🐍 Contribution Pacman
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph.svg">
-  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/PranavTechie21/PranavTechie21/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
