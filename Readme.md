@@ -85,37 +85,35 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie23&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie23&theme=tokyonight&border_radius=10" width="700" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie23&theme=tokyonight" alt="Top Languages by Repo" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie23&theme=tokyonight" alt="Top Languages by Commit" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavTechie23&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavTechie23&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=3D%20Contribution%20Graph&fontSize=25&fontColor=ffffff" width="100%" />
-
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/PranavTechie23?chart=3dbar&scale=2&animation=wave&theme=native" width="85%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="320" alt="Developer Animation"/>
 </p>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie23&theme=tokyonight" width="100%" alt="Top Languages by Repo"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie23&theme=tokyonight" width="100%" alt="Top Languages by Commit"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavTechie23&theme=tokyonight" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavTechie23&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
 
 🐍 Contribution Pacman
 
@@ -127,6 +125,3 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br><br>
-  ⭐ <b>If you like my work, consider starring my repositories!</b>
-</div>
