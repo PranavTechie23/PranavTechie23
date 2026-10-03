@@ -13,8 +13,6 @@
   <img src=".github/workflows/Designer.gif" width="750" height="500" alt="Coding GIF"/>
 </p>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Technical%20Arsenal&fontSize=25&fontColor=ffffff" width="100%" />
 
 <h2 align="center">🧠 Core Programming</h2>
@@ -27,7 +25,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50"/><br/><b>TypeScript</b></td>
   </tr>
 </table>
-
 
 <h2 align="center">🌐 Web & Full-Stack Development</h2>
 <table align="center">
@@ -43,9 +40,7 @@
   </tr>
 </table>
 
-
 <h2 align="center">🧩 Databases</h2>
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="45"/><br/>PostgreSQL</td>
@@ -54,7 +49,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB</td>
   </tr>
 </table>
-
 
 <h2 align="center">🤖 Machine Learning & Data Science</h2>
 <table align="center">
@@ -67,7 +61,6 @@
   </tr>
 </table>
 
-
 <h2 align="center">🛠️ DevOps, Systems & Tooling</h2>
 <table align="center">
   <tr>
@@ -78,7 +71,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br/>Postman</td>
   </tr>
 </table>
-
 
 <h2 align="center">🎨 Design, Visualization & Hardware</h2>
 <table align="center">
@@ -93,20 +85,31 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Statistics&fontSize=25&fontColor=ffffff" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie23&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavTechie23&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie23&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie23&theme=tokyonight" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavTechie23&theme=tokyonight" alt="Top Languages by Repo" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavTechie23&theme=tokyonight" alt="Top Languages by Commit" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavTechie23&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavTechie23&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavTechie21&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavTechie21&theme=tokyonight&utcOffset=5.5" />
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=3D%20Contribution%20Graph&fontSize=25&fontColor=ffffff" width="100%" />
 
@@ -114,16 +117,13 @@
   <img src="https://ssr-contributions-svg.vercel.app/_/PranavTechie23?chart=3dbar&scale=2&animation=wave&theme=native" width="85%" />
 </p>
 
----
+🐍 Contribution Pacman
 
-## 🐍 Contribution Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph.svg">
   <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/PranavTechie23/PranavTechie23/output/pacman-contribution-graph.svg">
 </picture>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
